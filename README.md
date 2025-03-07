@@ -35,8 +35,21 @@
 
 **Answer:** 
 *TYPE_YOUR_ANSWER_HERE*
+1. mkdir – Used to create a new directory (folder) in the Linux file system.
+This command is essential for new engineers as it helps organize the file structure efficiently. We can create directories to separate different work files, making file management more convenient.
+2. cat – Used to read and display file contents in Linux.
+This command is very useful for quickly viewing file contents. It helps new engineers easily check configuration files, code files, or other documents.
+
+
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*TYPE_YOUR_ANSWER_HERE
+ISNE is very fun, and I’ve gained a lot of knowledge! The professors are very kind and supportive. I especially enjoyed the course 269103 - Programming for ISNE, taught by Professor Navadon Khunlertgit. This course is taken in Year 1, Semester 2, where we learn about Linux, Git, and GitHub, which provide a strong foundation for our studies.
+
+When I attended the class, I could understand everything because the professor explained the concepts very clearly. If I had any doubts or problems, I could always ask for help, and he would guide me through them.
+
+ISNE also has many other exciting courses! If you love computers and technology, this faculty and program will not disappoint you. It’s truly enjoyable and provides a wealth of knowledge. If you ever face difficulties, you can always consult your friends, seniors, or professors.
+
+Study consistently, review the material, and you’ll do well on exams! Stay focused in class and revise outside of class. Thank you, and see you in the next generation of ISNE students...
